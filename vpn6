@@ -1,0 +1,3 @@
+key "79c084f60151ec5b82c8c15b753a26644d5bfd226afef90a53d9fb1524783b77";
+remote ipv4 "uvpn6.kbu.freifunk.net" port 10012;
+float yes;
